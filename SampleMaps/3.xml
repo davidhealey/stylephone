@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="" RRGroupAmount="3" MicPositions=";">
+  <sample Root="57" LoKey="53" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}3/stylo_3_57.wav" Duplicate="1" SampleStart="5582"
+          SampleEnd="253669"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}3/stylo_3_58.wav" Duplicate="1" SampleStart="1051"
+          SampleEnd="263118"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}3/stylo_3_59.wav" Duplicate="1" SampleStart="926"
+          SampleEnd="236057"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}3/stylo_3_60.wav" Duplicate="1" SampleStart="974"
+          SampleEnd="253947"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}3/stylo_3_61.wav" Duplicate="1" SampleStart="474"
+          SampleEnd="278029"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}3/stylo_3_62.wav" Duplicate="1" SampleStart="683"
+          SampleEnd="253528"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}3/stylo_3_63.wav" Duplicate="1" SampleStart="1222"
+          SampleEnd="267194"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}3/stylo_3_64.wav" Duplicate="1" SampleStart="804"
+          SampleEnd="297446"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}3/stylo_3_65.wav" Duplicate="1" SampleStart="323"
+          SampleEnd="267678"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}3/stylo_3_66.wav" Duplicate="1" SampleStart="1183"
+          SampleEnd="265464"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}3/stylo_3_67.wav" Duplicate="1" SampleStart="1278"
+          SampleEnd="269117"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}3/stylo_3_68.wav" Duplicate="1" SampleStart="872"
+          SampleEnd="282818"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}3/stylo_3_69.wav" Duplicate="1" SampleStart="871"
+          SampleEnd="275180"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}3/stylo_3_70.wav" Duplicate="1" SampleStart="1095"
+          SampleEnd="265630"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}3/stylo_3_71.wav" Duplicate="1" SampleStart="516"
+          SampleEnd="282902"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}3/stylo_3_72.wav" Duplicate="1" SampleStart="924"
+          SampleEnd="248855"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}3/stylo_3_73.wav" Duplicate="1" SampleStart="1560"
+          SampleEnd="266656"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}3/stylo_3_74.wav" Duplicate="1" SampleStart="1169"
+          SampleEnd="273133"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}3/stylo_3_75.wav" Duplicate="1" SampleStart="622"
+          SampleEnd="265707"/>
+  <sample Root="76" LoKey="76" HiKey="81" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}3/stylo_3_76.wav" Duplicate="1" SampleStart="9650"
+          SampleEnd="304458"/>
+  <sample Root="57" LoKey="53" HiKey="58" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}3/stylo_3_57.wav" Duplicate="1" SampleStart="5582"
+          SampleEnd="253669"/>
+  <sample Root="58" LoKey="59" HiKey="59" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}3/stylo_3_58.wav" Duplicate="1" SampleStart="1051"
+          SampleEnd="263118"/>
+  <sample Root="59" LoKey="60" HiKey="60" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}3/stylo_3_59.wav" Duplicate="1" SampleStart="926"
+          SampleEnd="236057"/>
+  <sample Root="60" LoKey="61" HiKey="61" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}3/stylo_3_60.wav" Duplicate="1" SampleStart="974"
+          SampleEnd="253947"/>
+  <sample Root="61" LoKey="62" HiKey="62" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}3/stylo_3_61.wav" Duplicate="1" SampleStart="474"
+          SampleEnd="278029"/>
+  <sample Root="62" LoKey="63" HiKey="63" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}3/stylo_3_62.wav" Duplicate="1" SampleStart="683"
+          SampleEnd="253528"/>
+  <sample Root="63" LoKey="64" HiKey="64" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}3/stylo_3_63.wav" Duplicate="1" SampleStart="1222"
+          SampleEnd="267194"/>
+  <sample Root="64" LoKey="65" HiKey="65" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}3/stylo_3_64.wav" Duplicate="1" SampleStart="804"
+          SampleEnd="297446"/>
+  <sample Root="65" LoKey="66" HiKey="66" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}3/stylo_3_65.wav" Duplicate="1" SampleStart="323"
+          SampleEnd="267678"/>
+  <sample Root="66" LoKey="67" HiKey="67" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}3/stylo_3_66.wav" Duplicate="1" SampleStart="1183"
+          SampleEnd="265464"/>
+  <sample Root="67" LoKey="68" HiKey="68" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}3/stylo_3_67.wav" Duplicate="1" SampleStart="1278"
+          SampleEnd="269117"/>
+  <sample Root="68" LoKey="69" HiKey="69" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}3/stylo_3_68.wav" Duplicate="1" SampleStart="872"
+          SampleEnd="282818"/>
+  <sample Root="69" LoKey="70" HiKey="70" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}3/stylo_3_69.wav" Duplicate="1" SampleStart="871"
+          SampleEnd="275180"/>
+  <sample Root="70" LoKey="71" HiKey="71" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}3/stylo_3_70.wav" Duplicate="1" SampleStart="1095"
+          SampleEnd="265630"/>
+  <sample Root="71" LoKey="72" HiKey="72" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}3/stylo_3_71.wav" Duplicate="1" SampleStart="516"
+          SampleEnd="282902"/>
+  <sample Root="72" LoKey="73" HiKey="73" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}3/stylo_3_72.wav" Duplicate="1" SampleStart="924"
+          SampleEnd="248855"/>
+  <sample Root="73" LoKey="74" HiKey="74" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}3/stylo_3_73.wav" Duplicate="1" SampleStart="1560"
+          SampleEnd="266656"/>
+  <sample Root="74" LoKey="75" HiKey="75" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}3/stylo_3_74.wav" Duplicate="1" SampleStart="1169"
+          SampleEnd="273133"/>
+  <sample Root="75" LoKey="76" HiKey="76" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}3/stylo_3_75.wav" Duplicate="1" SampleStart="622"
+          SampleEnd="265707"/>
+  <sample Root="76" LoKey="77" HiKey="81" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}3/stylo_3_76.wav" Duplicate="1" SampleStart="9650"
+          SampleEnd="304458"/>
+  <sample Root="57" LoKey="53" HiKey="56" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}3/stylo_3_57.wav" Duplicate="1" SampleStart="5582"
+          SampleEnd="253669" SampleStartMod="0"/>
+  <sample Root="58" LoKey="57" HiKey="57" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}3/stylo_3_58.wav" Duplicate="1" SampleStart="1051"
+          SampleEnd="263118" SampleStartMod="0"/>
+  <sample Root="59" LoKey="58" HiKey="58" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}3/stylo_3_59.wav" Duplicate="1" SampleStart="926"
+          SampleEnd="236057" SampleStartMod="0"/>
+  <sample Root="60" LoKey="59" HiKey="59" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}3/stylo_3_60.wav" Duplicate="1" SampleStart="2257"
+          SampleEnd="253947" SampleStartMod="0"/>
+  <sample Root="61" LoKey="60" HiKey="60" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}3/stylo_3_61.wav" Duplicate="1" SampleStart="474"
+          SampleEnd="278029" SampleStartMod="0"/>
+  <sample Root="62" LoKey="61" HiKey="61" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}3/stylo_3_62.wav" Duplicate="1" SampleStart="683"
+          SampleEnd="253528" SampleStartMod="0"/>
+  <sample Root="63" LoKey="62" HiKey="62" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}3/stylo_3_63.wav" Duplicate="1" SampleStart="1222"
+          SampleEnd="267194" SampleStartMod="0"/>
+  <sample Root="64" LoKey="63" HiKey="63" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}3/stylo_3_64.wav" Duplicate="1" SampleStart="804"
+          SampleEnd="297446" SampleStartMod="0"/>
+  <sample Root="65" LoKey="64" HiKey="64" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}3/stylo_3_65.wav" Duplicate="1" SampleStart="323"
+          SampleEnd="267678" SampleStartMod="0"/>
+  <sample Root="66" LoKey="65" HiKey="65" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}3/stylo_3_66.wav" Duplicate="1" SampleStart="1183"
+          SampleEnd="265464" SampleStartMod="0"/>
+  <sample Root="67" LoKey="66" HiKey="66" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}3/stylo_3_67.wav" Duplicate="1" SampleStart="1278"
+          SampleEnd="269117" SampleStartMod="0"/>
+  <sample Root="68" LoKey="67" HiKey="67" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}3/stylo_3_68.wav" Duplicate="1" SampleStart="872"
+          SampleEnd="282818" SampleStartMod="0"/>
+  <sample Root="69" LoKey="68" HiKey="68" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}3/stylo_3_69.wav" Duplicate="1" SampleStart="871"
+          SampleEnd="275180" SampleStartMod="0"/>
+  <sample Root="70" LoKey="69" HiKey="69" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}3/stylo_3_70.wav" Duplicate="1" SampleStart="1095"
+          SampleEnd="265630" SampleStartMod="0"/>
+  <sample Root="71" LoKey="70" HiKey="70" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}3/stylo_3_71.wav" Duplicate="1" SampleStart="516"
+          SampleEnd="282902" SampleStartMod="0"/>
+  <sample Root="72" LoKey="71" HiKey="71" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}3/stylo_3_72.wav" Duplicate="1" SampleStart="924"
+          SampleEnd="248855" SampleStartMod="0"/>
+  <sample Root="73" LoKey="72" HiKey="72" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}3/stylo_3_73.wav" Duplicate="1" SampleStart="1560"
+          SampleEnd="266656" SampleStartMod="0"/>
+  <sample Root="74" LoKey="73" HiKey="73" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}3/stylo_3_74.wav" Duplicate="1" SampleStart="1169"
+          SampleEnd="273133" SampleStartMod="0"/>
+  <sample Root="75" LoKey="74" HiKey="74" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}3/stylo_3_75.wav" Duplicate="1" SampleStart="622"
+          SampleEnd="265707" SampleStartMod="0"/>
+  <sample Root="76" LoKey="75" HiKey="81" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}3/stylo_3_76.wav" Duplicate="1" SampleStart="9650"
+          SampleEnd="304458" SampleStartMod="0"/>
+</samplemap>

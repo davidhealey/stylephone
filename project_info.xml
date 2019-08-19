@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProjectSettings>
+  <Name value="Stylephone"/>
+  <Version value="1.0.0"/>
+  <Description value=""/>
+  <BundleIdentifier value="com.librewave.stylephone"/>
+  <PluginCode value="Abcd"/>
+  <EmbedAudioFiles value="Yes"/>
+  <EmbedImageFiles value="Yes"/>
+  <SupportFullDynamicsHLAC value="1"/>
+  <AdditionalDspLibraries value=""/>
+  <OSXStaticLibs value=""/>
+  <WindowsStaticLibFolder value=""/>
+  <ExtraDefinitionsWindows value=""/>
+  <ExtraDefinitionsOSX value=""/>
+  <ExtraDefinitionsIOS value=""/>
+  <AppGroupID value=""/>
+  <RedirectSampleFolder value=""/>
+  <AAXCategoryFX value="AAX_ePlugInCategory_Modulation"/>
+  <SupportMonoFX value="No"/>
+  <VST3Support value="No"/>
+  <UseRawFrontend value="No"/>
+  <ExtraDefinitionsLinux value=""/>
+</ProjectSettings>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="1.0.0">
+  <Content Processor="Interface">
+    <Control type="ScriptComboBox" id="cmbPatches" value="1"/>
+    <Control type="ScriptSlider" id="knbGain" value="-3"/>
+    <Control type="ScriptSlider" id="knbDelay" value="50"/>
+    <Control type="ScriptSlider" id="knbPan" value="0"/>
+    <Control type="ScriptSlider" id="knbFine" value="0"/>
+    <Control type="ScriptTable" id="tblVelocity" value="0" data="24...............vO...f+....9C..DzO"/>
+    <Control type="ScriptButton" id="btnEQBypass" value="1"/>
+    <Control type="ScriptButton" id="btnChBypass" value="1"/>
+    <Control type="ScriptSlider" id="knbChRate" value="0.3"/>
+    <Control type="ScriptSlider" id="knbChWidth" value="0.4"/>
+    <Control type="ScriptSlider" id="knbChFeedback" value="0.3"/>
+    <Control type="ScriptSlider" id="knbChDelay" value="1"/>
+    <Control type="ScriptSlider" id="knbVibrato0" value="19.685"/>
+    <Control type="ScriptSlider" id="knbVibrato1" value="53.34"/>
+    <Control type="ScriptPanel" id="pnlMenu" value="0"/>
+  </Content>
+  <MidiAutomation>
+    <Controller Controller="1" Processor="Interface" MacroIndex="-1" Start="0"
+                End="127" FullStart="0" FullEnd="127" Skew="1.01144" Interval="0.01"
+                Attribute="lblWidth" Inverted="0"/>
+  </MidiAutomation>
+  <MPEData Enabled="0"/>
+</Preset>

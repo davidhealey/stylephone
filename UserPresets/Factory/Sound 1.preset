@@ -14,8 +14,8 @@
     <Control type="ScriptSlider" id="knbChWidth" value="0.4"/>
     <Control type="ScriptSlider" id="knbChFeedback" value="0.3"/>
     <Control type="ScriptSlider" id="knbChDelay" value="1"/>
-    <Control type="ScriptSlider" id="knbVibrato0" value="19.685"/>
-    <Control type="ScriptSlider" id="knbVibrato1" value="53.34"/>
+    <Control type="ScriptSlider" id="knbVibrato0" value="0"/>
+    <Control type="ScriptSlider" id="knbVibrato1" value="90"/>
     <Control type="ScriptPanel" id="pnlMenu" value="0"/>
   </Content>
   <MidiAutomation>

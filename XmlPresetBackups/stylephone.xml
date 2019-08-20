@@ -21,8 +21,8 @@
             <Control type="ScriptSlider" id="knbChWidth" value="0.4"/>
             <Control type="ScriptSlider" id="knbChFeedback" value="0.3"/>
             <Control type="ScriptSlider" id="knbChDelay" value="1"/>
-            <Control type="ScriptSlider" id="knbVibrato0" value="19.685"/>
-            <Control type="ScriptSlider" id="knbVibrato1" value="53.34"/>
+            <Control type="ScriptSlider" id="knbVibrato0" value="0"/>
+            <Control type="ScriptSlider" id="knbVibrato1" value="90"/>
             <Control type="ScriptPanel" id="pnlMenu" value="0"/>
           </Content>
           <UIData Source="stylephoneUIData"/>
@@ -78,7 +78,7 @@
                   <ChildProcessors>
                     <Processor Type="MidiController" ID="vibratoMod0" Bypassed="0" Intensity="1"
                                UseTable="1" Inverted="0" ControllerNumber="94" SmoothTime="200"
-                               DefaultValue="19.685" ControllerTableData="24...............vO...f+....9C..HyO">
+                               DefaultValue="0" ControllerTableData="24...............vO...f+....9C..HyO">
                       <ChildProcessors/>
                     </Processor>
                     <Processor Type="LFO" ID="LFO Modulator1" Bypassed="0" Intensity="0.25"
@@ -100,7 +100,7 @@
                   <ChildProcessors>
                     <Processor Type="MidiController" ID="vibratoMod1" Bypassed="0" Intensity="1"
                                UseTable="1" Inverted="0" ControllerNumber="94" SmoothTime="200"
-                               DefaultValue="53.34" ControllerTableData="24...............vO...f+....9C..n0O">
+                               DefaultValue="90" ControllerTableData="24...............vO...f+....9C..n0O">
                       <ChildProcessors/>
                     </Processor>
                     <Processor Type="LFO" ID="LFO Modulator2" Bypassed="0" Intensity="0.25"

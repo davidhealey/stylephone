@@ -169,6 +169,6 @@
              Data="{&#13;&#10;}" width="195" height="24" Font="Oxygen-Bold"
              FontSize="12" textColour="4288914339"/>
   <Component type="ScriptPanel" id="preloadBar" x="491" y="470" height="8"
-             width="132" bgColour="4286939248" itemColour="4292006599" itemColour2="0"
+             width="132" bgColour="4286743170" itemColour="4293980400" itemColour2="0"
              textColour="0" visible="0"/>
 </ContentProperties>

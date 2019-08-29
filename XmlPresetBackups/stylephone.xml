@@ -23,7 +23,7 @@
             <Control type="ScriptSlider" id="knbChDelay" value="1"/>
             <Control type="ScriptSlider" id="knbVibrato0" value="0"/>
             <Control type="ScriptSlider" id="knbVibrato1" value="90"/>
-            <Control type="ScriptPanel" id="pnlMenu" value="0"/>
+            <Control type="ScriptPanel" id="pnlMenu" value="5"/>
           </Content>
           <UIData Source="stylephoneUIData"/>
         </Processor>

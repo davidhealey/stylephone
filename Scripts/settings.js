@@ -60,6 +60,7 @@ namespace Settings
         "StreamingMode": true,
         "GraphicRendering": false,
         "ScaleFactor": true,
+        "VoiceAmountMultiplier":false, //Max voices
         "SustainCC": false,
         "ClearMidiCC": false,
         "SampleLocation": true,
